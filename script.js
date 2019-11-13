@@ -7,7 +7,7 @@ alert("No blank values allowed")
 }
 
 if(password.value <= 6){
-    alert("Password must be more than 6")
+    alert("Password must be more than 6 characters")
 }
 
 
