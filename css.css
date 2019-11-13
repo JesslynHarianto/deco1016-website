@@ -220,7 +220,7 @@ button:hover{
 }
 
 #showcase{
-    background-image: url('../images/bank.jpg');
+    background-image: url('./images/bank.jpg');
     background-position: center right;
     min-height:500px;
     margin-bottom: 30px;
